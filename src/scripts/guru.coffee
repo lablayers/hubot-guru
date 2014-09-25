@@ -9,7 +9,7 @@
 #   HUBOT_GURU_PASS
 #
 # Commands:
-#   hubot guru <query> - Searches facts matching <string>
+#   hubot guru <query> - Searches for facts matching <string>
 #
 # Author:
 #   lablayers
