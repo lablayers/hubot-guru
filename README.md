@@ -61,8 +61,8 @@ License
 [Hubot]: https://hubot.github.com/
 [Victor Lourng]: http://victorlourng.com/
 [MIT License]: LICENSE
-[travis-badge]: https://travis-ci.org/ngs/hubot-guru.svg?branch=master
+[travis-badge]: https://travis-ci.org/lablayers/hubot-guru.svg?branch=master
 [npm-badge]: http://img.shields.io/npm/v/hubot-guru.svg
-[travis]: https://travis-ci.org/ngs/hubot-guru
+[travis]: https://travis-ci.org/lablayers/hubot-guru
 [npm]: https://www.npmjs.org/package/hubot-guru
 [Guru]: http://getguru.com/
