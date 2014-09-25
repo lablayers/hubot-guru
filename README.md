@@ -19,7 +19,7 @@ Commands
 --------
 
 ```
-hubot guru <query>
+hubot guru me <query>
 ```
 
 Installation
